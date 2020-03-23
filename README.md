@@ -26,4 +26,4 @@ Description
  ## What the app looks like 
  ![alt_text](https://github.com/curiousabel/World-Wide-Travels/blob/master/screenshot/screenshot%231.PNG) | ![alt_text](https://github.com/curiousabel/World-Wide-Travels/blob/master/screenshot/screenshot%232.PNG)
  ------------ | -------------
- a | n
+ ![alt_text](https://github.com/curiousabel/World-Wide-Travels/blob/master/screenshot/screenshot%234.PNG) | ![alt_text](https://github.com/curiousabel/World-Wide-Travels/blob/master/screenshot/screenshot%236.PNG)
