@@ -24,5 +24,5 @@ Description
  
  
  ## What the app looks like 
- ![alt_text] (https://github.com/curiousabel/World-Wide-Travels/blob/master/screenshot%231.PNG)
+ ![alt_text](https://github.com/curiousabel/World-Wide-Travels/blob/master/screenshot%231.PNG)
  
