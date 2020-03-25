@@ -14,18 +14,22 @@ Description
 3.
 
 ## User Stories
+
+
 1. Client Side code:
-* project1component.js
-* alertsetupcomponent.js
-* advisoryaddcomponent.js
-* advisorylistcomponent.js
-* logocomponent.js
+  * project1component.js
+  * alertsetupcomponent.js
+  * advisoryaddcomponent.js
+  * advisorylistcomponent.js
+  * logocomponent.js
 2. Server side code:
-* app.js
-* alertssetup.js
-* project1routes.js
-* dbroutines.js
-* fileroutines.js
+  * app.js
+  * alertssetup.js
+  * project1routes.js
+  * dbroutines.js
+  * fileroutines.js
+  
+  
 ## Feature 
 
 * sadn
