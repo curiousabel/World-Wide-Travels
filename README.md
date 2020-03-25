@@ -22,6 +22,8 @@ Description
  
  ## Dependencies 
  
+  * Material-UI
+   [Material-UI](http://www.material-ui.com)  is actually a set of react components that implement material design principles.
  
  ## What the app looks like 
  ![alt_text](https://github.com/curiousabel/World-Wide-Travels/blob/master/screenshot/screenshot%231.PNG) | ![alt_text](https://github.com/curiousabel/World-Wide-Travels/blob/master/screenshot/screenshot%232.PNG)
